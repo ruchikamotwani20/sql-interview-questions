@@ -4,7 +4,7 @@
 Welcome to my SQL interview prep journey! This repository documents my progress as I work through **196 real SQL interview questions** sourced from top tech companies like **Amazon, Google, Walmart, Microsoft, Uber, Spotify, and more**.
 
 📄 I've included the full question bank as an Excel file:  
-👉 [`196_SQL_Questions.xlsx`](./196_SQL_Questions.xlsx)
+👉 https://github.com/ruchikamotwani20/sql-interview-questions/blob/main/SQL%20Questions.xlsx
 
 ---
 
