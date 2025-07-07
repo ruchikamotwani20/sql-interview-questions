@@ -10,7 +10,7 @@ Welcome to my SQL interview prep journey! This repository documents my progress 
 
 ## ✅ Progress So Far
 
-- Questions Solved: **12 / 196**
+- Questions Solved: **12 / 194**
 - Status: 🛠️ In Progress
 - Updated: *July 2025*
 
