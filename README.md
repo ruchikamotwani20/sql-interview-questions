@@ -1,5 +1,5 @@
 
-# 🧠 SQL Interview Prep: 196 Real Questions
+# 🧠 SQL Interview Prep: 194 Real Questions
 
 Welcome to my SQL interview prep journey! This repository documents my progress as I work through **196 real SQL interview questions** sourced from top tech companies like **Amazon, Google, Walmart, Microsoft, Uber, Spotify, and more**.
 
