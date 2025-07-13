@@ -28,6 +28,17 @@ SQL is a key skill for roles in:
 This repo is my way of mastering SQL through **real-world interview challenges** and sharing my journey with others preparing for data interviews.
 
 ---
+## ❗ Note on Unsolved Questions
+
+Some SQL questions listed in the accompanying Excel file require a premium subscription to DataLemur for full access to the problem description.
+
+Since I currently do not have access to the premium content, I’ve been unable to solve the following questions:
+
+- Q25, Q28, Q29, Q30, Q31, Q32, Q34, Q37
+
+Once access is available, I will update this repository with solutions for those as well.
+
+---
 
 ### 🚀 Let’s Connect
 
