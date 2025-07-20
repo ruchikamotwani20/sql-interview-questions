@@ -34,7 +34,7 @@ Some SQL questions listed in the accompanying Excel file require a premium subsc
 
 Since I currently do not have access to the premium content, I’ve been unable to solve the following questions:
 
-- Q25, Q28, Q29, Q30, Q31, Q32, Q34, Q37, Q39, Q40, Q41, Q42, Q44, Q46, Q47, Q49, Q50, Q52, Q53, Q55, Q56, Q58, Q59
+- Q25, Q28, Q29, Q30, Q31, Q32, Q34, Q37, Q39, Q40, Q41, Q42, Q44, Q46, Q47, Q49, Q50, Q52, Q53, Q55, Q56, Q58, Q61, Q62, Q64, Q65, Q67, Q68, Q70-Q94
 
 Once access is available, I will update this repository with solutions for those as well.
 
