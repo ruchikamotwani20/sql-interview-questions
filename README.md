@@ -10,7 +10,7 @@ Welcome to my SQL interview prep journey! This repository documents my progress 
 
 ## ✅ Progress So Far
 
-- Questions Solved: **112 / 194**
+- Questions Solved: **129 / 194**
 - Status: 🛠️ In Progress
 - Updated: *July 2025*
 
@@ -37,6 +37,11 @@ Since I currently do not have access to the premium content, I’ve been unable 
 - Q25, Q28, Q29, Q30, Q31, Q32, Q34, Q37, Q39, Q40, Q41, Q42, Q44, Q46, Q47, Q49, Q50, Q52, Q53, Q55, Q56, Q58, Q61, Q62, Q64, Q65, Q67, Q68, Q70-Q94
 
 Once access is available, I will update this repository with solutions for those as well.
+
+---
+## Leetcode - SQL 50 Study Plan Solutions Github Link
+
+https://github.com/ieshreya/sql-50-leetcode
 
 ---
 
